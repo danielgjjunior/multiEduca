@@ -16,9 +16,7 @@
     "@tailwindcss/forms": "0.4.0"
   },
   "scripts": {
-    "start": "vite",
-    "build": "vite build",
-    "serve": "vite preview"
+    "build": "vite build"
   },
   "eslintConfig": {
     "extends": [
